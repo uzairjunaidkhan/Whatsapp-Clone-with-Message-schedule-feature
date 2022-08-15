@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="BigDecimalLegacyMethod" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="CollectionsFieldAccessReplaceableByMethodCall" enabled="true" level="WARNING" enabled_by_default="false">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ForCanBeForeach" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true">
+        <option name="REPORT_INDEXED_LOOP" value="false" />
+        <option name="ignoreUntypedCollections" value="false" />
+      </scope>
+      <option name="REPORT_INDEXED_LOOP" value="false" />
+      <option name="ignoreUntypedCollections" value="false" />
+    </inspection_tool>
+    <inspection_tool class="IndexOfReplaceableByContains" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MethodCanBeVariableArityMethod" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <scope name="Project Files" level="INFORMATION" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="RawUseOfParameterizedType" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="StringBufferReplaceableByStringBuilder" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnnecessaryBoxing" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnnecessaryUnboxing" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="WhileCanBeForeach" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>

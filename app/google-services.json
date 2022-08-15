@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484319242750",
+    "project_id": "enconnect-52fbb",
+    "storage_bucket": "enconnect-52fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484319242750:android:8668b909ee23354b1378af",
+        "android_client_info": {
+          "package_name": "com.chatapp.enconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484319242750-8cgj0c4s6r8bk1ocn6tfd9g3v5pcb222.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArikfMWFVq5bGEzIlBD94PohZV2Muz4tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484319242750-8cgj0c4s6r8bk1ocn6tfd9g3v5pcb222.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
